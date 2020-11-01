@@ -1,0 +1,19 @@
+{
+	"peliculas":[
+		{
+			"director":"Gerardo Torres",
+			"nombre": "Lucía",
+			"estudio":"Fishwere"
+		},
+		{
+			"director":"Alfonso cuarón",
+			"nombre": "Roma",
+			"estudio":"Participant Media"
+		},
+		{
+			"director":"Cristopher Nolan",
+			"nombre":"Interestellar",
+			"estudio": "Syncopy"
+		}
+	]
+}
