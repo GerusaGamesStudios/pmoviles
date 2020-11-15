@@ -1,0 +1,21 @@
+<avisos>
+
+  <aviso>
+    <id>1</id>
+    <nombre>Alto en grasas</nombre>
+    <descripcion>Alto contenido en grasas</descripcion>
+  </aviso>
+  
+  <aviso>
+    <id>2</id>
+    <nombre>Alto en Sodio</nombre>
+    <descripcion>Alto contenido en sal</descripcion>
+  </aviso>
+  
+  <aviso>
+    <id>3</id>
+    <nombre>Alto en Calorias</nombre>
+    <descripcion>Alto contenido calorico</descripcion>
+  </aviso>
+  
+</avisos>
