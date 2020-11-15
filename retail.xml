@@ -1,0 +1,19 @@
+<tiendas>
+  <tienda>
+    <id>1</id>
+    <nombre> Galerias Mexico </nombre>
+    <ubi> En el centro de la ciudad de méxico</ubi> 
+  </tienda>
+  
+  <tienda>
+    <id>2</id>
+    <nombre>Fun Corp</nombre>
+    <ubi> en todas las plazas comerciales</ubi> 
+  </tienda>
+  
+  <tienda>
+    <id>3</id>
+    <nombre> Matell </nombre>
+    <ubi> En toda la republica</ubi> 
+  </tienda>
+</tiendas>
