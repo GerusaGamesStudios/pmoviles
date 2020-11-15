@@ -21,19 +21,19 @@
   
   <festivales>
     <festival>
-      <id>1<id/>
+      <id>1</id>
       <nombre>Festival de canes</nombre>
       <descripcion>festival de cine en Francia</descripcion>
     </festival>
       
     <festival>
-      <id>2<id/>
+      <id>2</id>
       <nombre>TIFF</nombre>
       <descripcion>festival de cine en Toronto</descripcion>
     </festival>
       
     <festival>
-      <id>3<id/>
+      <id>3</id>
       <nombre>Sundance</nombre>
       <descripcion>festival de cine en USA</descripcion>
     </festival>
